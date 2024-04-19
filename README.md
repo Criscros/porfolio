@@ -1,12 +1,15 @@
-# Krozo React Personal Portfolio Template
+# David  React Personal Portfolio 
 
 ## Description
 
-Setup Procedure
+it's about my back-ground as a developer 
 
 ## Project setup
 
+
 ```
+Node Version 16
+
 npm install
 ```
 
@@ -28,6 +31,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration (vue-cli)
+### Youtube 
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.youtube.com/channel/UCz7eedmxjkdv-FL9H0mFr8Q
+
