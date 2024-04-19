@@ -21,14 +21,14 @@ const AllPortfolioContent = [
   },
   {
     img: "3",
-    title: "Software Architec AWS",
-    alterText: "software Arquitect",
+    title: "Senior Developer",
+    alterText: "software Developer",
     portfolioLink:
       "https://www.doctoraki.com/",
   },
   {
     img: "4",
-    title: "Software Architec AWS JR",
+    title: "Lead Team ",
     subTitle: "",
     alterText: "Elearning App",
     portfolioLink:
@@ -36,7 +36,7 @@ const AllPortfolioContent = [
   },
   {
     img: "5",
-    title: "Full Stack Developer",
+    title: "Infraestructura AWS",
     alterText: "sucursal refinancia",
     portfolioLink:
       "https://sucursalvirtual.refinancia.co/",
@@ -44,7 +44,7 @@ const AllPortfolioContent = [
 
   {
     img: "6",
-    title: "Movile Developer IONIC + Angular",
+    title: "Senior Developer",
     alterText: "ipm",
     portfolioLink:
       "https://ipm-x.com/",
